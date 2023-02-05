@@ -1,0 +1,37 @@
+.image1 {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+.Total {
+border: 500px;
+width: 50px;
+height: 80px;
+color: blue;
+}
+.h2 {
+  font-size: 1.333em;
+  display: block;
+  margin: 0 0 0.5em;
+  line-height: 1.4;
+  font-family: Fira Sans, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.petit {
+  font-size: 80%;
+  display: block;
+  margin: 0 0 0.5em;
+  line-height: 1.4;
+  font-family: Fira Sans, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.fond de tein {
+  font-size: 80%;
+}
+.google {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+  text-align: center;
+  align-self: center;
+}
